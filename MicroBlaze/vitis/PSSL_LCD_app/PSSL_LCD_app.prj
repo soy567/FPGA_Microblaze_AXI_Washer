@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="PSSL_LCD_app" location="D:/Verilog_HDL/20.02/PSSL/MicroBlaze/PSSL_LCD/vitis/PSSL_LCD_app" platform="D:/Verilog_HDL/20.02/PSSL/MicroBlaze/PSSL_LCD/vitis/PSSL_design_wrapper/export/PSSL_design_wrapper/PSSL_design_wrapper.xpfm" platformUID="xilinx:basys3::0.0(custom)" systemProject="PSSL_LCD_app_system" sysConfig="PSSL_design_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="acd8693e521f12a10a2be251e1e36f23">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1347088794">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.663206186" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,132 @@
+timestamp=[2022-04-06 11:27:40], mode=WORKBENCH_START, duration=0:00:30.947, duration_ms=30947, data={}
+timestamp=[2022-04-06 11:27:42], mode=WORKBENCH_UI_INIT, duration=0:00:02.203, duration_ms=2203, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-04-06 11:27:46], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.759, duration_ms=759, data={}
+timestamp=[2022-04-06 11:29:11], mode=APP_CREATION, duration=0:00:28.491, duration_ms=28491, data={name=PSSL_LCD_app, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=PSSL_design_wrapper, application_type=application}
+timestamp=[2022-04-06 11:30:25], mode=PLATFORM_GENERATION, duration=0:00:14.196, duration_ms=14196, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-06 11:30:30], mode=BUILD, duration=0:00:04.765, duration_ms=4765, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 11:36:27], mode=BUILD, duration=0:00:00.498, duration_ms=498, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 11:36:58], mode=BUILD, duration=0:00:02.772, duration_ms=2772, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 11:50:13], mode=BUILD, duration=0:00:00.858, duration_ms=858, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 11:51:23], mode=BUILD, duration=0:00:02.914, duration_ms=2914, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 11:52:38], mode=PLATFORM_GENERATION, duration=0:00:09.310, duration_ms=9310, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-06 11:59:42], mode=BUILD, duration=0:00:01.684, duration_ms=1684, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:05:08], mode=BUILD, duration=0:00:00.610, duration_ms=610, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:05:25], mode=BUILD, duration=0:00:01.353, duration_ms=1353, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:09:48], mode=BUILD, duration=0:00:01.044, duration_ms=1044, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:11:54], mode=BUILD, duration=0:00:01.040, duration_ms=1040, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:16:08], mode=BUILD, duration=0:00:01.200, duration_ms=1200, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:18:28], mode=BUILD, duration=0:00:00.987, duration_ms=987, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:22:07], mode=BUILD, duration=0:00:01.031, duration_ms=1031, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:24:22], mode=BUILD, duration=0:00:00.982, duration_ms=982, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:26:15], mode=BUILD, duration=0:00:01.048, duration_ms=1048, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:28:41], mode=BUILD, duration=0:00:01.349, duration_ms=1349, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:28:41], mode=BUILD, duration=0:00:00.223, duration_ms=223, data={name=PSSL_LCD_app_system, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:32:00], mode=BUILD, duration=0:00:01.381, duration_ms=1381, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:35:26], mode=BUILD, duration=0:00:01.033, duration_ms=1033, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:36:30], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:37:46], mode=BUILD, duration=0:00:00.987, duration_ms=987, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:40:16], mode=BUILD, duration=0:00:00.281, duration_ms=281, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:40:17], mode=BUILD, duration=0:00:00.282, duration_ms=282, data={name=PSSL_LCD_app_system, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:43:26], mode=BUILD, duration=0:00:01.340, duration_ms=1340, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:45:21], mode=BUILD, duration=0:00:01.279, duration_ms=1279, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:46:59], mode=BUILD, duration=0:00:00.223, duration_ms=223, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:46:59], mode=BUILD, duration=0:00:00.220, duration_ms=220, data={name=PSSL_LCD_app_system, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 13:48:42], mode=BUILD, duration=0:00:00.972, duration_ms=972, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:25:50], mode=BUILD, duration=0:00:01.161, duration_ms=1161, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:33:28], mode=BUILD, duration=0:00:01.289, duration_ms=1289, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:35:41], mode=BUILD, duration=0:00:00.973, duration_ms=973, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:36:54], mode=BUILD, duration=0:00:00.225, duration_ms=225, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:38:17], mode=BUILD, duration=0:00:00.969, duration_ms=969, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:45:22], mode=BUILD, duration=0:00:01.054, duration_ms=1054, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:47:46], mode=BUILD, duration=0:00:01.124, duration_ms=1124, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 14:50:28], mode=BUILD, duration=0:00:01.034, duration_ms=1034, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:04:10], mode=BUILD, duration=0:00:01.314, duration_ms=1314, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:13:42], mode=BUILD, duration=0:00:00.977, duration_ms=977, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:31:09], mode=BUILD, duration=0:00:01.356, duration_ms=1356, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:35:19], mode=BUILD, duration=0:00:01.351, duration_ms=1351, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:37:33], mode=BUILD, duration=0:00:01.040, duration_ms=1040, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:37:51], mode=BUILD, duration=0:00:00.225, duration_ms=225, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:37:52], mode=BUILD, duration=0:00:00.219, duration_ms=219, data={name=PSSL_LCD_app_system, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:40:02], mode=BUILD, duration=0:00:00.990, duration_ms=990, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:41:53], mode=BUILD, duration=0:00:01.040, duration_ms=1040, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:52:04], mode=BUILD, duration=0:00:00.923, duration_ms=923, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:52:39], mode=BUILD, duration=0:00:00.720, duration_ms=720, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:52:48], mode=BUILD, duration=0:00:00.411, duration_ms=411, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:53:07], mode=BUILD, duration=0:00:00.470, duration_ms=470, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:54:21], mode=BUILD, duration=0:00:00.481, duration_ms=481, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:54:39], mode=BUILD, duration=0:00:01.720, duration_ms=1720, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:55:20], mode=BUILD, duration=0:00:01.923, duration_ms=1923, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:57:33], mode=BUILD, duration=0:00:01.051, duration_ms=1051, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 15:57:41], mode=BUILD, duration=0:00:01.049, duration_ms=1049, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 16:03:31], mode=BUILD, duration=0:00:01.128, duration_ms=1128, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-06 16:27:42], mode=PLATFORM_GENERATION, duration=0:00:45.311, duration_ms=45311, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-07 09:12:03], mode=WORKBENCH_START, duration=0:00:41.371, duration_ms=41371, data={}
+timestamp=[2022-04-07 09:12:06], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.857, duration_ms=857, data={}
+timestamp=[2022-04-07 09:12:07], mode=WORKBENCH_UI_INIT, duration=0:00:04.300, duration_ms=4300, data={editors_count=11, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=PSSL_LCD_app,PSSL_LCD_app_system,PSSL_design_wrapper,RemoteSystemsTempFiles}
+timestamp=[2022-04-07 09:14:21], mode=WORKBENCH_START, duration=0:00:09.759, duration_ms=9759, data={}
+timestamp=[2022-04-07 09:14:22], mode=WORKBENCH_UI_INIT, duration=0:00:01.006, duration_ms=1006, data={editors_count=11, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=PSSL_LCD_app,PSSL_LCD_app_system,PSSL_design_wrapper,RemoteSystemsTempFiles}
+timestamp=[2022-04-07 09:14:25], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.053, duration_ms=53, data={}
+timestamp=[2022-04-07 09:15:13], mode=PLATFORM_GENERATION, duration=0:00:06.707, duration_ms=6707, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-07 14:42:23], mode=BUILD, duration=0:00:07.894, duration_ms=7894, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:42:57], mode=BUILD, duration=0:00:01.077, duration_ms=1077, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:43:50], mode=BUILD, duration=0:00:01.031, duration_ms=1031, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:47:22], mode=BUILD, duration=0:00:01.297, duration_ms=1297, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:50:22], mode=BUILD, duration=0:00:00.969, duration_ms=969, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:55:00], mode=BUILD, duration=0:00:00.344, duration_ms=344, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:55:02], mode=BUILD, duration=0:00:00.343, duration_ms=343, data={name=PSSL_LCD_app_system, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:55:40], mode=BUILD, duration=0:00:01.156, duration_ms=1156, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 14:55:59], mode=BUILD, duration=0:00:01.039, duration_ms=1039, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:08:13], mode=BUILD, duration=0:00:01.375, duration_ms=1375, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:08:23], mode=BUILD, duration=0:00:00.588, duration_ms=588, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:09:14], mode=BUILD, duration=0:00:02.043, duration_ms=2043, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:09:28], mode=BUILD, duration=0:00:01.781, duration_ms=1781, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:16:11], mode=WORKBENCH_START, duration=0:00:38.055, duration_ms=38055, data={}
+timestamp=[2022-04-07 15:16:14], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.129, duration_ms=129, data={}
+timestamp=[2022-04-07 15:16:15], mode=WORKBENCH_UI_INIT, duration=0:00:04.431, duration_ms=4431, data={editors_count=11, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=PSSL_LCD_app,PSSL_LCD_app_system,PSSL_design_wrapper,RemoteSystemsTempFiles}
+timestamp=[2022-04-07 15:27:35], mode=BUILD, duration=0:00:02.533, duration_ms=2533, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:27:58], mode=BUILD, duration=0:00:01.570, duration_ms=1570, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:28:09], mode=BUILD, duration=0:00:01.297, duration_ms=1297, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:28:54], mode=BUILD, duration=0:00:01.209, duration_ms=1209, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:30:17], mode=BUILD, duration=0:00:00.866, duration_ms=866, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:30:25], mode=BUILD, duration=0:00:00.950, duration_ms=950, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:35:15], mode=BUILD, duration=0:00:01.179, duration_ms=1179, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:37:44], mode=BUILD, duration=0:00:01.172, duration_ms=1172, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:37:57], mode=BUILD, duration=0:00:00.602, duration_ms=602, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:38:10], mode=BUILD, duration=0:00:00.843, duration_ms=843, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:38:24], mode=BUILD, duration=0:00:01.375, duration_ms=1375, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:40:07], mode=BUILD, duration=0:00:01.046, duration_ms=1046, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:43:05], mode=BUILD, duration=0:00:01.077, duration_ms=1077, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:43:10], mode=BUILD, duration=0:00:00.947, duration_ms=947, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:45:47], mode=BUILD, duration=0:00:00.843, duration_ms=843, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:46:04], mode=BUILD, duration=0:00:01.046, duration_ms=1046, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 15:46:16], mode=BUILD, duration=0:00:01.000, duration_ms=1000, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 16:04:19], mode=BUILD, duration=0:00:01.101, duration_ms=1101, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 16:25:37], mode=BUILD, duration=0:00:01.641, duration_ms=1641, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 17:07:36], mode=BUILD, duration=0:00:01.410, duration_ms=1410, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 17:08:35], mode=BUILD, duration=0:00:00.226, duration_ms=226, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 17:09:12], mode=BUILD, duration=0:00:00.962, duration_ms=962, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-07 17:30:17], mode=WORKBENCH_START, duration=0:00:24.792, duration_ms=24792, data={}
+timestamp=[2022-04-07 17:30:19], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.032, duration_ms=32, data={}
+timestamp=[2022-04-07 17:30:19], mode=WORKBENCH_UI_INIT, duration=0:00:02.202, duration_ms=2202, data={editors_count=11, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=PSSL_LCD_app,PSSL_LCD_app_system,PSSL_design_wrapper,RemoteSystemsTempFiles}
+timestamp=[2022-04-08 09:11:51], mode=WORKBENCH_START, duration=0:00:41.572, duration_ms=41572, data={}
+timestamp=[2022-04-08 09:11:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.562, duration_ms=1562, data={}
+timestamp=[2022-04-08 09:11:56], mode=WORKBENCH_UI_INIT, duration=0:00:04.726, duration_ms=4726, data={editors_count=11, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=PSSL_LCD_app,PSSL_LCD_app_system,PSSL_design_wrapper,RemoteSystemsTempFiles}
+timestamp=[2022-04-08 09:12:29], mode=PLATFORM_GENERATION, duration=0:00:32.651, duration_ms=32651, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-08 09:12:30], mode=BUILD, duration=0:00:00.328, duration_ms=328, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:21:43], mode=BUILD, duration=0:00:04.582, duration_ms=4582, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:29:01], mode=BUILD, duration=0:00:01.902, duration_ms=1902, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:32:44], mode=BUILD, duration=0:00:00.969, duration_ms=969, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:32:58], mode=BUILD, duration=0:00:00.203, duration_ms=203, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:38:41], mode=BUILD, duration=0:00:01.156, duration_ms=1156, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:42:25], mode=BUILD, duration=0:00:00.992, duration_ms=992, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:44:05], mode=BUILD, duration=0:00:01.202, duration_ms=1202, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 09:46:46], mode=BUILD, duration=0:00:00.946, duration_ms=946, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 11:10:38], mode=PLATFORM_GENERATION, duration=0:00:13.212, duration_ms=13212, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-08 16:18:31], mode=PLATFORM_GENERATION, duration=0:00:09.546, duration_ms=9546, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-08 16:35:21], mode=PLATFORM_GENERATION, duration=0:00:07.341, duration_ms=7341, data={name=PSSL_design_wrapper}
+timestamp=[2022-04-08 16:35:26], mode=BUILD, duration=0:00:04.758, duration_ms=4758, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 16:35:54], mode=BUILD, duration=0:00:00.923, duration_ms=923, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 16:44:09], mode=BUILD, duration=0:00:00.412, duration_ms=412, data={name=PSSL_LCD_app, configuration=Debug, clean_build=true}
+timestamp=[2022-04-08 16:44:12], mode=BUILD, duration=0:00:02.852, duration_ms=2852, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 16:51:54], mode=BUILD, duration=0:00:01.299, duration_ms=1299, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
+timestamp=[2022-04-08 16:59:07], mode=BUILD, duration=0:00:00.973, duration_ms=973, data={name=PSSL_LCD_app, configuration=Debug, clean_build=false}
